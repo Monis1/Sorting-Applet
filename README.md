@@ -1,1 +1,3 @@
 # Sorting-Applet
+
+Sorting-Applet Shows graphical view of few of the sorting algorithms...
